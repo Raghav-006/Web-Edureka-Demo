@@ -1,0 +1,26 @@
+.pageContainer {
+  background: url('https://i.postimg.cc/76kStDSv/food-Wallpaper.png');
+  height: 320px;
+  width: 640px;
+  margin: auto;
+  text-align: center;
+  padding-top: 20px;
+}
+.logo{
+  background-color: white;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  font-family: Poppins;
+  font-size: 70px;
+  font-weight: 600;
+  color: red;
+  margin: auto;
+}
+.heading{
+  font-family: Poppins;
+  font-size: 36px;
+  font-weight: 600;
+  color: white;
+  padding-top: 20px;
+  }
